@@ -119,3 +119,17 @@ lalu untuk menampilan pilihan "cari"" gunakan fungsi 'elif' kemudian gunakan fun
 lalu jika ingin keluar dari program gunakan fungsi 'if' kemudian gunakan fungsi break untuk keluar dari data nilai/menghentikan program
 Stop'<p>'
 
+6. Latihan 1'<p>'
+Ubahlah kode dibawah ini menjadi fungsi menggunakan'<P>'
+import math
+def a(x):
+ return x**2
+def b(x, y):
+ return math.sqrt(x**2 + y**2)
+def c(*args):
+ return sum(args)/len(args)
+def d(s):
+ return "".join(set(s))'<p>'
+ ![Gambar 5](screenshoot/s5.JPG)
+
+ # Sekian Depository Kali, ini. Jika ada Banyak kekeliruan dalam program diatas saya mohan maaf karna saya juga masih belajar'<p>'
